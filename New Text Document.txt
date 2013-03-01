@@ -1,0 +1,117 @@
+init:
+deps-jar:
+Compiling 1 source file to C:\Documents and Settings\ACM.UNIVERSI-EE6966\Desktop\Network Project\Simulation\build\classes
+compile:
+run:
+Created: BUS(1): Speed = 200000000 ,bit rate = 1215752192 ,NUM_BUS_WORDS = 16
+Created: Host(0) in BUS(1) in Address: bus index(2) & bit index(6)
+Created: Host(1) in BUS(1) in Address: bus index(13) & bit index(1)
+Created: Host(2) in BUS(1) in Address: bus index(1) & bit index(5)
+F 0 2 0 21 2
+#######################################################################
+10101011_00000000_00000000_00000000_00000000_00000000_00000000_00000000_00000010_00000000_00000000_00000000_00000000_00000000_00000001_00110111_00110100_01010000_10010000_11010100_10101011_
+Message(0) created from2 to 0 length = 21
+#######################################################################
+persistency Exp. Host(2) Exp = 1 rand = 1
+F 1 0 2 21 3
+#######################################################################
+10101011_00000000_00000000_00000000_00000010_00000000_00000000_00000000_00000000_00000000_00000000_00000000_00000001_00000000_00000001_11011011_10001011_01001110_11000000_00000000_10101011_
+Message(1) created from0 to 2 length = 21
+#######################################################################
+persistency Exp. Host(0) Exp = 1 rand = 2
+F 2 1 2 21 4
+#######################################################################
+10101011_00000000_00000000_00000000_00000010_00000000_00000000_00000000_00000001_00000000_00000000_00000000_00000010_00000000_00000001_10101000_10011100_01011101_01001111_11110110_10101011_
+Message(2) created from1 to 2 length = 21
+#######################################################################
+persistency Exp. Host(1) Exp = 1 rand = 1
+Host(2) Exp = 1 rand = 1 OUT.
+Host(1) Exp = 1 rand = 1 OUT.
+Host(0) Exp = 1 rand = 2 OUT.
+~S~
+Host(0) Exp = 2 rand = 3
+~S~
+Host(2) Exp = 2 rand = 2
+~S~
+Host(1) Exp = 2 rand = 4
+Host(2) Exp = 2 rand = 2 OUT.
+persistency Exp. Host(2) Exp = 3 rand = 4
+Host(0) Exp = 2 rand = 3 OUT.
+persistency Exp. Host(0) Exp = 3 rand = 6
+Host(1) Exp = 2 rand = 4 OUT.
+Host(2) Exp = 3 rand = 4 OUT.
+~S~
+Host(2) Exp = 4 rand = 7
+~S~
+Host(1) Exp = 3 rand = 7
+Host(0) Exp = 3 rand = 6 OUT.
+~S~
+Host(0) Exp = 4 rand = 7
+Host(2) Exp = 4 rand = 7 OUT.
+persistency Exp. Host(2) Exp = 5 rand = 32
+Host(1) Exp = 3 rand = 7 OUT.
+persistency Exp. Host(1) Exp = 4 rand = 2
+Host(0) Exp = 4 rand = 7 OUT.
+persistency Exp. Host(0) Exp = 5 rand = 9
+Host(1) Exp = 4 rand = 2 OUT.
+S 2 1147
+S 2 1376
+Host(0) Exp = 5 rand = 9 OUT.
+~S~
+Host(0) Exp = 6 rand = 51
+~S~
+Host(1) Exp = 5 rand = 17
+Host(1) Exp = 5 rand = 17 OUT.
+persistency Exp. Host(1) Exp = 6 rand = 63
+Host(2) Exp = 5 rand = 32 OUT.
+S 0 2626
+persistency Exp. Host(2) Exp = 6 rand = 40
+Host(0) Exp = 6 rand = 51 OUT.
+persistency Exp. Host(0) Exp = 7 rand = 95
+Host(2) Exp = 6 rand = 40 OUT.
+S 0 4885
+persistency Exp. Host(2) Exp = 7 rand = 113
+Host(1) Exp = 6 rand = 63 OUT.
+S 2 5724
+S 2 5953
+S 2 6182
+S 2 6411
+persistency Exp. Host(1) Exp = 7 rand = 14
+Host(1) Exp = 7 rand = 14 OUT.
+S 2 7344
+persistency Exp. Host(1) Exp = 8 rand = 235
+Host(0) Exp = 7 rand = 95 OUT.
+S 1 8997
+persistency Exp. Host(0) Exp = 8 rand = 133
+Host(2) Exp = 7 rand = 113 OUT.
+S 0 10867
+persistency Exp. Host(2) Exp = 8 rand = 202
+Host(0) Exp = 8 rand = 133 OUT.
+S 1 15999
+S 1 16228
+persistency Exp. Host(0) Exp = 9 rand = 34
+Host(0) Exp = 9 rand = 34 OUT.
+S 1 18181
+persistency Exp. Host(0) Exp = 10 rand = 323
+Host(1) Exp = 8 rand = 235 OUT.
+S 2 19548
+persistency Exp. Host(1) Exp = 9 rand = 337
+Host(2) Exp = 8 rand = 202 OUT.
+S 0 21388
+persistency Exp. Host(2) Exp = 9 rand = 134
+Host(2) Exp = 9 rand = 134 OUT.
+S 0 28441
+S 0 28670
+S 0 28899
+persistency Exp. Host(2) Exp = 10 rand = 611
+Host(0) Exp = 10 rand = 323 OUT.
+S 1 34873
+S 1 35102
+persistency Exp. Host(0) Exp = 11 rand = 306
+Host(1) Exp = 9 rand = 337 OUT.
+S 2 36954
+persistency Exp. Host(1) Exp = 10 rand = 343
+Host(0) Exp = 11 rand = 306 OUT.
+S 1 50927
+S 1 51156
+persistency Exp. Host(0) Exp = 12 rand = 2729
